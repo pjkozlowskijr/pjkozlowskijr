@@ -13,3 +13,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1>
 </div>
+
+## :man_technologist: About Me: 
+
+- I'm a full-stack developer working on :computer: web applications. 
+- In my free time, I enjoy :national_park: hiking with my wife and dog and :man_cook: cooking a good meal.
