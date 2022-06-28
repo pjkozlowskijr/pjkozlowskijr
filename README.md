@@ -14,6 +14,8 @@
   </h1>
 </div>
 
+---
+
 ## :man_technologist: About Me: 
 
 - I'm a full-stack developer working on :computer: web applications. 
