@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Na2i9xObnOz3W/giphy.gif" height="150">
   <div>
-    <a href="https://www.linkedin.com/in/pjkozlowskijr/" target="_blank">
+    <a href="https://www.linkedin.com/in/pjkozlowskijr/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge">
     </a>
     <a href="mailto:pjkozlowskijr@gmail.com">
