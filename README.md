@@ -14,9 +14,9 @@
 
 - I'm a :technologist: full-stack web developer based in the :earth_americas: United States. 
 - In my free time, I enjoy :hiking_boot: hiking with my wife and dog, :taco: cooking a good meal, and :golf: playing a round of golf.
-- Proud supporter of :football: Daaaaaaaa Chicago Bears and :soccer: Chelsea FC
+- Proud supporter of :football: Daaaaaaaa Chicago Bears and :soccer: Chelsea FC.
 - Currently working on [Finance Fight](https://github.com/pjkozlowskijr/Finance-Fight). Fantasy sports meets investing to give users a risk-free environment to test their investing skills by making fake purchases of real stocks or cryptocurrencies.
-- Contact me via [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455350/linkedin_wtgzer.png" height="16"> LinkedIn](https://www.linkedin.com/in/pjkozlowskijr/) or [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455825/gmail_qokeeq.png" height="16"> Email](mailto:pjkozlowskijr@gmail.com)
+- Contact me via [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455350/linkedin_wtgzer.png" height="16"> LinkedIn](https://www.linkedin.com/in/pjkozlowskijr/) or [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455825/gmail_qokeeq.png" height="16"> Gmail](mailto:pjkozlowskijr@gmail.com)
 
 ### Languages & Tools:
 
