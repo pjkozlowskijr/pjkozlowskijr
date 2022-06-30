@@ -14,7 +14,7 @@
 
 - I'm a :technologist: full-stack web developer based in the :earth_americas: United States. 
 - In my free time, I enjoy :hiking_boot: hiking with my wife and dog, :taco: cooking a good meal, and :golf: playing a round of golf.
-- Proud supporter of :football: Daaaaaaaa Chicago Bears and :soccer: Chelsea FC.
+- Proud supporter of :soccer: Chelsea FC and :football: Daaaaaaaa Chicago Bears.
 - Currently working on [Finance Fight](https://github.com/pjkozlowskijr/Finance-Fight). Fantasy sports meets investing to give users a risk-free environment to test their investing skills by making fake purchases of real stocks or cryptocurrencies.
 - Contact me via [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455350/linkedin_wtgzer.png" height="16"> LinkedIn](https://www.linkedin.com/in/pjkozlowskijr/) or [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455825/gmail_qokeeq.png" height="16"> Gmail](mailto:pjkozlowskijr@gmail.com)
 
@@ -28,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MUI" height="40" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="40" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40" width="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQL Alchemy" height="40" width="40">&nbsp;
