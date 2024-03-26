@@ -22,39 +22,39 @@
 <table>
     <tbody>
         <tr>
-            <td>Bootstrap<br /><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40"></td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40" width="40">&nbsp;Flask</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="Cloudflare" height="40" width="40">&nbsp;Cloudflare</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40">&emsp;Bootstrap</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40" width="40">&emsp;Flask</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="Cloudflare" height="40" width="40">&emsp;Cloudflare</td>
         </tr>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40">&nbsp;CSS</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40">&nbsp;MySQL</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" height="40" width="40">&nbsp;Git</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40">&emsp;CSS</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40">&emsp;MySQL</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" height="40" width="40">&emsp;Git</td>
         </tr>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40">&nbsp;HTML</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="40" width="40">&nbsp;PHP</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" height="40" width="40">&nbsp;Heroku</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40">&emsp;HTML</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="40" width="40">&emsp;PHP</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" height="40" width="40">&emsp;Heroku</td>
         </tr>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40">&nbsp;Javascript</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40">&nbsp;PostgreSQL</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" height="40" width="40">&nbsp;Jira</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40">&emsp;Javascript</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40">&emsp;PostgreSQL</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" height="40" width="40">&emsp;Jira</td>
         </tr>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="40" width="40">&nbsp;jQuery</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" width="40">&nbsp;Python</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" height="40" width="40">&nbsp;VS Code</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="40" width="40">&emsp;jQuery</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" width="40">&emsp;Python</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" height="40" width="40">&emsp;VS Code</td>
         </tr>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MUI" height="40" width="40">&nbsp;Material UI</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQL Alchemy" height="40" width="40">&nbsp;SQL Alchemy</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" alt="WooCommerce" height="40" width="40">&nbsp;WooCommerce</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MUI" height="40" width="40">&emsp;Material UI</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQL Alchemy" height="40" width="40">&emsp;SQL Alchemy</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" alt="WooCommerce" height="40" width="40">&emsp;WooCommerce</td>
         </tr>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40">&nbsp;React</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="40" width="40">&nbsp;SQLite</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" height="40" width="40">&nbsp;WordPress</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40">&emsp;React</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="40" width="40">&emsp;SQLite</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" height="40" width="40">&emsp;WordPress</td>
         </tr>
     </tbody>
 </table>
