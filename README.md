@@ -22,7 +22,7 @@
 <table>
     <tbody>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40">&nbsp;Bootstrap</td>
+            <td>Bootstrap<br /><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40"></td>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40" width="40">&nbsp;Flask</td>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="Cloudflare" height="40" width="40">&nbsp;Cloudflare</td>
         </tr>
