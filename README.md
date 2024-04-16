@@ -13,13 +13,20 @@
 ### About Me: 
 
 - I'm a :technologist: full-stack web developer based in the :earth_americas: United States. 
-- In my free time, I enjoy :hiking_boot: hiking with my family, :taco: cooking a good meal, and :golf: playing a round of golf.
+- In my free time, I enjoy :hiking_boot: hiking with my family, :taco: cooking a tasty meal, and :golf: playing a round of golf.
 - Passionate supporter of :soccer: Chelsea FC and :football: Daaaaaaaa Chicago Bears.
 - Contact me via [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455350/linkedin_wtgzer.png" height="16"> LinkedIn](https://www.linkedin.com/in/pjkozlowskijr/) or [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455825/gmail_qokeeq.png" height="16"> Gmail](mailto:pjkozlowskijr@gmail.com).
 
 ### Languages & Tools:
 
 <table>
+    <thead>
+        <tr>
+            <th scope="col">Frontend</th>
+            <th scope="col">Backend</th>
+            <th scope="col">Tools</th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40">&emsp;Bootstrap</td>
