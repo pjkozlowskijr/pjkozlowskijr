@@ -70,4 +70,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pjkozlowskijr&theme=vue-dark)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjkozlowskijr&layout=compact&theme=vue-dark&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjkozlowskijr&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
