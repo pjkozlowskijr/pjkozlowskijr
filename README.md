@@ -68,6 +68,6 @@
 
 ### My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pjkozlowskijr&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://streak-stats.demolab.com/?user=pjkozlowskijr&theme=vue-dark)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-top-languages-pjkozlowskijrs-projects.vercel.app/api/top-langs/?username=pjkozlowskijr&layout=compact&theme=vue-dark&hide=jupyter%notebook)](https://github.com/anuraghazra/github-readme-stats)
