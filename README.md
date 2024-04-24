@@ -13,7 +13,7 @@
 ### About Me: 
 
 - I'm a :technologist: full-stack web developer based in the :earth_americas: United States.
-- Currently customizing and managing multiple e-commerce websites totaling over $25M annual revenue for [3C Labs](https://www.3clabs.com/) using primarily PHP, JavaScript, jQuery, and MySQL.
+- Currently customizing and managing multiple e-commerce websites totaling over $25M annual revenue for [3C Labs](https://www.3clabs.com/).
 - In my free time, I enjoy :hiking_boot: hiking with my family, :taco: cooking a tasty meal, and :golf: playing a round of golf.
 - Passionate supporter of :soccer: Chelsea FC and :football: Daaaaaaaa Chicago Bears.
 - Contact me via [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455350/linkedin_wtgzer.png" height="16"> LinkedIn](https://www.linkedin.com/in/pjkozlowskijr/) or [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455825/gmail_qokeeq.png" height="16"> Gmail](mailto:pjkozlowskijr@gmail.com).
