@@ -32,7 +32,7 @@
         <tr>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40">&emsp;Bootstrap</td>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40" width="40">&emsp;Flask</td>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="Azure Functions" height="40" width="40">&emsp;Azure Functions</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Azure Functions" height="40" width="40">&emsp;Azure Functions</td>
         </tr>
         <tr>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40">&emsp;CSS</td>
