@@ -23,7 +23,7 @@
 
 ### Languages & Tools:
 
-<table style="background-color: white;">
+<table>
     <thead>
         <tr>
             <th scope="col">Frontend</th>
@@ -33,7 +33,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40">&emsp;Bootstrap</td>
+            <td style="background-color: white;"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40">&emsp;Bootstrap</td>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40" width="40">&emsp;Flask</td>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Azure Functions" height="40" width="40">&emsp;Azure Functions</td>
         </tr>
