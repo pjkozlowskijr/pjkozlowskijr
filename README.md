@@ -12,7 +12,7 @@
 
 ### About Me: 
 
-- I'm a :technologist: full-stack web developer based in the :earth_americas: United States.
+- I'm a :technologist: full-stack software developer based in the :earth_americas: United States.
 - Current project highlights:
   - Managing multiple e-commerce websites totaling over $25M annual revenue for [3C Labs](https://www.3cllc.co/).
   - Developing custom WordPress/WooCommerce plugins to enhance functionality of company e-commerce websites. Examples include Google Analytics integration, REST API logging, and age gate.
@@ -33,7 +33,7 @@
     </thead>
     <tbody>
         <tr>
-            <td style="background-color: white;"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40">&emsp;Bootstrap</td>
+            <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40">&emsp;Bootstrap</td>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40" width="40">&emsp;Flask</td>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Azure Functions" height="40" width="40">&emsp;Azure Functions</td>
         </tr>
