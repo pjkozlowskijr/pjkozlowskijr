@@ -23,7 +23,7 @@
 
 ### Languages & Tools:
 
-<table>
+<table style="background-color: white;">
     <thead>
         <tr>
             <th scope="col">Frontend</th>
