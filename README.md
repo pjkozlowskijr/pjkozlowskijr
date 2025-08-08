@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656448763/hiking_dscajk.jpg" height="200" width="auto"/>
   <div>
-    <a href="https://www.linkedin.com/in/pjkozlowskijr/">
+    <div><a href="https://www.linkedin.com/in/pjkozlowskijr/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge">
-    </a>&emsp;
+    </a></div>
     <a href="mailto:pjkozlowskijr@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail badge">
     </a>
