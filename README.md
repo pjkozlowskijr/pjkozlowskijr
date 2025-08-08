@@ -13,13 +13,22 @@
 ### About Me: 
 
 - I'm a :technologist: full-stack software developer based in the :earth_americas: United States.
-- Current project highlights:
-  - Managing multiple e-commerce websites totaling over $25M annual revenue for [3C Labs](https://www.3cllc.co/).
-  - Developing custom WordPress/WooCommerce plugins to enhance functionality of company e-commerce websites. Examples include Google Analytics integration, REST API logging, and age gate.
-  - Building an Azure Functions integration to continuously push company e-commerce data (orders, customers, products) to HubSpot via REST API.
 - In my free time, I enjoy :hiking_boot: hiking with my family, :taco: cooking a tasty meal, and :golf: playing a round of golf.
 - Passionate supporter of :soccer: Chelsea FC and :football: Daaaaaaaa Chicago Bears.
 - Contact me via [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455350/linkedin_wtgzer.png" height="16"> LinkedIn](https://www.linkedin.com/in/pjkozlowskijr/) or [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455825/gmail_qokeeq.png" height="16"> Gmail](mailto:pjkozlowskijr@gmail.com).
+
+### Project Highlights:
+
+- Extending Odoo (ERP & CRM) functionality through the development of custom modules. Examples include:
+  - Extending the Odoo REST API to accept Helpdesk (customer support) ticket submissions from third-party websites.
+  - Validating payment terms and invoice status before releasing sales orders for processing by the warehouse team to prevent unpaid orders being shipped.
+  - Automatically creating completed email and call activities for configured user groups when emails are sent and phone calls (incoming and outgoing) are completed to allow productivity tracking for leadership. 
+- Sole developer developing and managing multiple e-commerce websites totaling over $25M annual revenue for [3C Labs](https://www.3cllc.co/).
+- Building custom WordPress/WooCommerce plugins to enhance functionality of company e-commerce websites. Examples include:
+  - Syncing real-time ecommerce data (including order, product, and customer details) to HubSpot for use by sales and support teams.
+  - Google Analytics integration to push product and order details for ecommerce events such as view item, add to cart, begin checkout, purchases, and more. Included server-side integration to capture subscription renewal orders and refunds.
+  - Custom REST API logging to capture request endpoint, headers, body, and parameters for use in debugging and troubleshooting third-party integrations.and age gate.
+  - Allowing users to select their location in order to hide products from shop pages that cannot be sold in that location. 
 
 ### Languages & Tools:
 
