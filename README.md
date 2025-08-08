@@ -1,9 +1,11 @@
 <div align="center">
   <img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656448763/hiking_dscajk.jpg" height="200" width="auto"/>
   <div>
-    <div><a href="https://www.linkedin.com/in/pjkozlowskijr/">
+    <a href="https://www.linkedin.com/in/pjkozlowskijr/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge">
-    </a></div>
+    </a>
+  </div>
+  <div>
     <a href="mailto:pjkozlowskijr@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail badge">
     </a>
@@ -15,7 +17,7 @@
 - I'm a :technologist: full-stack software developer based in the :earth_americas: United States.
 - In my free time, I enjoy :hiking_boot: hiking with my family, :taco: cooking a tasty meal, and :golf: playing a round of golf.
 - Passionate supporter of :soccer: Chelsea FC and :football: Daaaaaaaa Chicago Bears.
-- Contact me via [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455350/linkedin_wtgzer.png" height="16"> LinkedIn](https://www.linkedin.com/in/pjkozlowskijr/) or [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455825/gmail_qokeeq.png" height="16"> Gmail](mailto:pjkozlowskijr@gmail.com).
+- Contact me via [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455825/gmail_qokeeq.png" height="16"> Gmail](mailto:pjkozlowskijr@gmail.com) or [<img src="https://res.cloudinary.com/detcvmtip/image/upload/v1656455350/linkedin_wtgzer.png" height="16"> LinkedIn](https://www.linkedin.com/in/pjkozlowskijr/).
 
 ### Project Highlights:
 
